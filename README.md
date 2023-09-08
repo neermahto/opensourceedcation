@@ -1,1 +1,1 @@
-# opensourceedcation
+# opensourceeducation
